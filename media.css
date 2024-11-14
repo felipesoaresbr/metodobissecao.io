@@ -1,0 +1,31 @@
+ @media (min-width: 320px) and (max-width: 500px) {
+
+    body {
+        padding: 4px;
+        font-size: 0.9em
+    }
+
+    .container {
+        border-radius: 8px;
+        padding: 10px;
+
+        text-align: center;
+    }
+
+    input {
+        width: 80%;
+        height: 30px;
+        border-radius: 50px;
+    }
+
+    input::placeholder {
+        text-align: right;
+    }
+
+    button {
+        padding: 20px;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 3px;
+    }
+ }
