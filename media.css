@@ -29,6 +29,12 @@
         letter-spacing: 3px;
     }
 
+    table {
+      width: 50%;
+      margin: auto;
+      margin-top: 10px;
+    }
+
     td, th {
         font-size: 0.6em;
     }
