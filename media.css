@@ -28,4 +28,8 @@
         font-weight: bold;
         letter-spacing: 3px;
     }
+
+    td, th {
+        font-size: 0.6em;
+    }
  }
